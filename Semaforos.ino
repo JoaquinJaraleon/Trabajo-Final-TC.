@@ -1,4 +1,3 @@
-
 // Definición de pines para semáforos
 int Semaforo_Rojo_1 = 12;
 int Semaforo_Amarillo_1 = 11;
